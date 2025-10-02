@@ -97,6 +97,7 @@ class Program
 
                 case "6": // Exit program
                     Console.WriteLine("Exiting now...");
+                    Thread.Sleep(2000);
                     inMenu = false; //breaks loop
                     Console.Clear();
                     break;
