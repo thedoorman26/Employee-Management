@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Managment\\EmployeeManagement.csproj",
-      "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Managment\\EmployeeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Management\\Employee-Management.csproj",
+      "projectName": "Employee-Management",
+      "projectPath": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Management\\Employee-Management.csproj",
       "packagesPath": "C:\\Users\\thedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Managment\\obj\\",
+      "outputPath": "C:\\Users\\thedo\\Documents\\Employee-Management\\Employee-Management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thedo\\AppData\\Roaming\\NuGet\\NuGet.Config"

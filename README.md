@@ -6,9 +6,9 @@ This program provides a simple menu with options for interfacing with and editin
 
 My purpose for writing this software is to demonstrate what I have learned over the past two weeks, including the creation of a persistent menu, as well as working with class constructors and external files.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+Here's a link showing how this code works:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Yyy5SOPZAho)
 
 # Development Environment
 
